@@ -80,7 +80,7 @@ def gerar_matriz_adaptativa(elementos, largura):
 # -------------------------
 # Interface Streamlit
 # -------------------------
-st.title("Gerador de Vetor de Intervalos e Agrupamentos")
+st.title("Gerador de Vetor de Intervalos e Agrupamentos V1")
 
 st.write("Preencha a tabela abaixo com os intervalos e número de repetições:")
 
